@@ -4,8 +4,9 @@ This project demonstrates my ability to inspect, interpret, and manage file perm
 
  
 
-<h2>Description</h2>
-- 
+<h2>Project Description</h2>
+- As part of this project, I reviewed and updated file and directory permissions within the projects directory to ensure they aligned with the organization's access control requirements. Using Linux commands, I verified existing permissions, identified unauthorized access, and modified permissions to ensure that only authorized users could access sensitive project resources. The following sections demonstrate the steps I performed to inspect, verify, and secure the project's file system.
+
 
 
 
